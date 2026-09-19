@@ -1,23 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This Project is intended to help me practice and familiarize myself with tools I will be using in the future on softwarre projects.
 
-{Provide a description of your software}
+This is a simple python project to print a statement. In this case I will be printing the common "Hello World!"
 
-{Describe your purpose for creating this software.}
+This project will help me become more familiar with VS Code, GitHub, and publishing my code.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/W7mHmVH3JcI)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code to develop this software and Python 3.13 to run the program.
 
-{Describe the programming language that you used}
-
+The programming language used for this project is Python.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python Documentation](https://docs.python.org/3/)
+* [Visual Studio Code](https://code.visualstudio.com/)
